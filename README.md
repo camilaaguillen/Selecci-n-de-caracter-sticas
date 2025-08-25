@@ -14,3 +14,6 @@ La base de datos cuenta con la siguiente información:
 - “sulfatos”. Gramos de sulfato de potasio por decímetro cúbico.
 - “alcohol”. Volúmen percentil de alcohol en el vino.
 - “calidad”. Mediana de la calidad otorgada por al menos tres catadores, en escala del 0 (muy malo) al 10 (excelente).
+- [Reporte en formato ipynb](./jupiter14.ipynb)
+- [Reporte en formato html](./html14.html)
+- [Base de datos](./datos14.csv)
